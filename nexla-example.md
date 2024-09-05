@@ -55,6 +55,7 @@ Key fields for Weaviate connection:
 - **API Key Value**: Your Weaviate Cluster's API key.
 - **API Version**: Select the desired API version for this connection.
 - **LLM Provider API Key**: Optionally, include an API key from OpenAI, Cohere, or Hugging Face for processing text into vector embeddings.
+
 <br>
 12. **Configuring the Payload**: Here you will be able to see a preview of the Payload we are delivering to Weaviate, you can make a feel adjustments if needed. After everything is set up, just hit on `save`.
 
